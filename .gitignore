@@ -3,3 +3,5 @@
 __pycache__/
 *.pyc
 *.pyo
+image_scraper/images/
+image_scraper/**/_discarded/

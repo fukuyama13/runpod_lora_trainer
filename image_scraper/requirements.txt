@@ -1,0 +1,7 @@
+requests
+tqdm
+Pillow
+torch
+transformers
+accelerate
+bitsandbytes
